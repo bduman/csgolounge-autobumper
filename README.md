@@ -1,6 +1,10 @@
 # csgolounge-autobumper
 Auto bump your trades at csgolounge
 
+# Install
+
+```npm install csgolounge-autobumper```
+
 # Usage
 
 ```javascript
